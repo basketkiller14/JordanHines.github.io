@@ -1,0 +1,132 @@
+.gloria-hallelujah-regular {
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.libre-baskerville-regular-italic {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.top-20 {
+    font-family: Libre Baskerville, Gloria hallelujah;
+    font-style: italic;
+    font-weight: 800;
+}
+.main .anime .rate {
+    font-family: Gloria Hallelujah;
+}
+
+@font-face {
+    font-family: Libre Baskerville;
+    src: url();
+}
+
+
+.top {
+    text-align: center;
+    color: azure;
+    
+}
+
+.opener {
+    position: relative;
+    background-color: black;
+    width: 100%;
+}
+
+.main {
+    position: absolute;
+    top: 150px;
+    width: 100%;
+}
+
+.topnav li {
+    display: inline-block;
+    margin-left: 130px;
+    text-align: center;
+
+}
+
+
+
+.topnav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background-color: bisque;
+    overflow: hidden;
+
+}
+
+.topnav a {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    display: block;
+}
+
+
+.topnav a:hover {
+    background-color: rgb(39, 39, 35);
+}
+
+.topnav {
+    margin: auto;
+    text-transform: uppercase;
+}
+
+
+
+
+
+.main .anime {
+    display: inline-block;
+    margin: 10px 10px;
+    border: solid #000000 1px;
+    text-align: center;
+    padding: 10px 10px;
+    overflow: scroll;
+    width: 250px;
+    height: 400px;
+}
+
+.main .anime .title {
+    margin: 10px, 10px;
+}
+
+
+input {
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0,0,0);
+    font-weight: 700;
+    
+}
+
+.rate {
+    font-weight: bold;
+    font-size: 14px;
+    display: inline;
+}
+
+img {
+    margin-top: 10px;
+    height: 300px;
+    width: 200px;
+}
+
+h5 {
+    margin-top: 45px;;
+}
